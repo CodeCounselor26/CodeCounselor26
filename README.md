@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CodeCounselor26
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning how to code as a beginner.
-- 💞️ I’m looking to collaborate on everything i can.
+- 👋 Hi, I’m @Matheus Aruda
+- 👀 I’m interested in cybersecurity and Data Privacy.
 - ⚡ Fun fact: i am a Lawyer.
 
 <!---
